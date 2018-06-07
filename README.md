@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app).
 
 Below you will find some useful information on how to work with this application.<br>
@@ -90,3 +91,6 @@ Currently, debugging is supported only in IntelliJ IDEA Ultimate 2017.3.
 
 You can also debug your application using the developer tools in your browser.
 
+=======
+# o
+>>>>>>> a77e96c97252f3929e8920155ca918be8b62dc9f
